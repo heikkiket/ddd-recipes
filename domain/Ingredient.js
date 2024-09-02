@@ -1,3 +1,5 @@
 export default class Ingredient {
-  constructor(name) {}
+  constructor(name) {
+    this.name = name
+  }
 }
