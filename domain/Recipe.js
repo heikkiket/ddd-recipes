@@ -1,4 +1,4 @@
-import Ingredient from './Ingredient'
+import Ingredient from './Ingredient.js'
 
 export default class Recipe {
   constructor() {
